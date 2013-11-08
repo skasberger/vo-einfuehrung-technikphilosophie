@@ -5,7 +5,6 @@ Die Lehrveranstaltung soll mittels einem diskursivem Format eine Einführung in 
 
 Sprache: Deutsch
 - Dokumentation
-- Code: 
 
-[Einführung in die Technikphilosophie: Von Martin Heidegger bis Bruno Latour ](https://online.uni-graz.at/kfu_online/lv.detail?clvnr=343009) 
+[Einführung in die Technikphilosophie: Von Martin Heidegger bis Bruno Latour](http://openscienceasap.org/education/courses/vo-einfuehrung-in-die-technikphilosophie/) 
 
